@@ -5,7 +5,7 @@ from flask_bootstrap import Bootstrap
 from flask_login import LoginManager
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
-# from todolist.models import User,Todolist
+from todolist.models import User,Todolist
 # from flask_wtf import CSRFProtect
 
 
